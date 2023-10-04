@@ -37,24 +37,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "템플릿 적용, 수정.md",
+                "file": "Archive/PARA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d6ead2722fd4dd4c",
+            "id": "f554c68614c0b55f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "끄적.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -125,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 1.canvas",
+                "file": "끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 1.canvas",
+                "file": "끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 1.canvas"
+                "file": "끄적.md"
               }
             }
           },
@@ -196,19 +193,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48657064ce7672ab",
+  "active": "f554c68614c0b55f",
   "lastOpenFiles": [
-    "README.md",
+    "Archive/PARA.md",
+    "끄적.md",
+    "템플릿 적용, 수정.md",
+    "Table Test.md",
     "2023-09-27.md",
-    "무제 파일 1.canvas",
+    "그리디 풀이.md",
+    "README.md",
     "무제 파일.canvas",
+    "무제 파일 1.canvas",
     "Excalidraw/Drawing 2023-09-26 16.25.37.excalidraw.md",
     "Excalidraw_png/Pasted Image 20230926162824_108.png",
     "Excalidraw_png/Pasted Image 20230926180236_538.png",
-    "Table Test.md",
-    "템플릿 적용, 수정.md",
-    "그리디 풀이.md",
-    "Archive/PARA.md",
     "Archive/블로그/Java Exception.md",
     "Archive/블로그",
     "Archive/블로그/HTML, CSS.md",
