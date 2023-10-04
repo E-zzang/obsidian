@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "34dedba6813450b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "끄적.md",
+                "file": "Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "끄적.md",
+                "file": "Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "끄적.md"
+                "file": "Collection.md"
               }
             }
           },
@@ -193,14 +205,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f554c68614c0b55f",
+  "active": "34dedba6813450b8",
   "lastOpenFiles": [
-    "Archive/PARA.md",
+    "Table Test.md",
+    "Collection.md",
+    "그리디 풀이.md",
     "끄적.md",
     "템플릿 적용, 수정.md",
-    "Table Test.md",
+    "Archive/PARA.md",
     "2023-09-27.md",
-    "그리디 풀이.md",
     "README.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
