@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b8ba50fe61a3600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Interface.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection.md",
+                "file": "Functional Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection.md",
+                "file": "Functional Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection.md"
+                "file": "Functional Interface.md"
               }
             }
           },
@@ -205,10 +217,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34dedba6813450b8",
+  "active": "3b8ba50fe61a3600",
   "lastOpenFiles": [
-    "Table Test.md",
     "Collection.md",
+    "Functional Interface.md",
+    "Table Test.md",
     "그리디 풀이.md",
     "끄적.md",
     "템플릿 적용, 수정.md",
