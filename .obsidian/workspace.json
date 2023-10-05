@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collection.md",
+                "file": "Java Collection Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functional Interface.md",
+                "file": "Java Collection Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Collection",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Interface.md",
+                "file": "Java Collection Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Interface.md",
+                "file": "Java Collection Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Interface.md"
+                "file": "Java Collection Framework.md"
               }
             }
           },
@@ -217,10 +218,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b8ba50fe61a3600",
+  "active": "1cc97ad25e439c56",
   "lastOpenFiles": [
-    "Collection.md",
     "Functional Interface.md",
+    "Java Collection Framework.md",
     "Table Test.md",
     "그리디 풀이.md",
     "끄적.md",
