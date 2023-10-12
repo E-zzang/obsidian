@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Collection Framework.md",
+                "file": "Archive/블로그/Enum.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Collection Framework.md",
+                "file": "Archive/블로그/Enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Collection Framework.md",
+                "file": "Archive/블로그/Enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Collection Framework.md"
+                "file": "Archive/블로그/Enum.md"
               }
             }
           },
@@ -207,24 +207,24 @@
   },
   "active": "34dedba6813450b8",
   "lastOpenFiles": [
-    "끄적.md",
+    "Archive/블로그/HTML, CSS.md",
+    "Table Test.md",
     "Stream.md",
+    "Java Collection Framework.md",
+    "그리디 풀이.md",
+    "Functional Interface.md",
+    "Excalidraw/Drawing 2023-09-26 16.25.37.excalidraw.md",
+    "Excalidraw_png/Pasted Image 20230926162824_108.png",
+    "Excalidraw_png/Pasted Image 20230926180236_538.png",
+    "끄적.md",
     "무제 파일.canvas",
     "Archive/블로그/Java Exception.md",
-    "Functional Interface.md",
-    "Java Collection Framework.md",
-    "Table Test.md",
-    "그리디 풀이.md",
     "템플릿 적용, 수정.md",
     "Archive/PARA.md",
     "2023-09-27.md",
     "README.md",
     "무제 파일 1.canvas",
-    "Excalidraw/Drawing 2023-09-26 16.25.37.excalidraw.md",
-    "Excalidraw_png/Pasted Image 20230926162824_108.png",
-    "Excalidraw_png/Pasted Image 20230926180236_538.png",
     "Archive/블로그",
-    "Archive/블로그/HTML, CSS.md",
     "Archive/블로그/Enum.md",
     "Area",
     "Archive",
