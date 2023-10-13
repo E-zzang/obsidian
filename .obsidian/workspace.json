@@ -1,18 +1,19 @@
 {
   "main": {
-    "id": "94ef043886abdf56",
+    "id": "836fa5ad752cd8fd",
     "type": "split",
     "children": [
       {
-        "id": "f07ab58a562c5434",
+        "id": "62096e9c3bbff692",
         "type": "tabs",
         "children": [
           {
-            "id": "b7984e203156a52c",
+            "id": "6476498d001b8466",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Archive/블로그/Java Exception.md",
                 "mode": "source",
                 "source": false
@@ -62,27 +63,34 @@
               "type": "markdown",
               "state": {
                 "file": "Archive/블로그/Enum.md",
+=======
+                "file": "항해+.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
             }
           }
+<<<<<<< Updated upstream
         ],
         "currentTab": 4
+=======
+        ]
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "02c466a2b6b4b6e3",
+    "id": "14cad34bd46b7c6d",
     "type": "split",
     "children": [
       {
-        "id": "5cab489f2440d8e8",
+        "id": "da8036db5a73ee97",
         "type": "tabs",
         "children": [
           {
-            "id": "48657064ce7672ab",
+            "id": "9c8f2a735d258619",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,13 +100,13 @@
             }
           },
           {
-            "id": "1cc97ad25e439c56",
+            "id": "d155edf0d3fc22c9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -107,7 +115,7 @@
             }
           },
           {
-            "id": "b2eb56c4509ef241",
+            "id": "0b75eb8bcfeb0011",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -118,23 +126,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 300
   },
   "right": {
-    "id": "b56c80bec966537c",
+    "id": "28d4e26b425dd13c",
     "type": "split",
     "children": [
       {
-        "id": "6f837cbdee41beef",
+        "id": "9b2822c71057d458",
         "type": "tabs",
         "children": [
           {
-            "id": "e150a77532aea960",
+            "id": "f8b7790051da0a17",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Archive/블로그/Enum.md",
+=======
+                "file": "항해+.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,19 +158,23 @@
             }
           },
           {
-            "id": "1e237a654beffc55",
+            "id": "93284245dabafebb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Archive/블로그/Enum.md",
+=======
+                "file": "항해+.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7f41f913cf091954",
+            "id": "dc8aefb8a5ad4bad",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,29 +185,25 @@
             }
           },
           {
-            "id": "fcc3296b9ffe4977",
+            "id": "320a69a70f96f52a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Archive/블로그/Enum.md"
+=======
+                "file": "항해+.md"
+>>>>>>> Stashed changes
               }
             }
-          },
-          {
-            "id": "ff42cb427af558b3",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,6 +217,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< Updated upstream
   "active": "34dedba6813450b8",
   "lastOpenFiles": [
     "Archive/블로그/HTML, CSS.md",
@@ -235,5 +248,25 @@
     "Excalidraw_png",
     "Excalidraw",
     "아무거나 폴더"
+=======
+  "active": "6476498d001b8466",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-26 16.25.37.excalidraw.md",
+    "Java Collection Framework.md",
+    "Stream.md",
+    "Functional Interface.md",
+    "Table Test.md",
+    "끄적.md",
+    "그리디 풀이.md",
+    "항해+.md",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "HTMLAudioElement.md",
+    "Excalidraw_png/Pasted image 20230928165225.png",
+    "Excalidraw_png/Pasted image 20230928165218.png",
+    "2023-09-28.md",
+    "맥북하고 동기화.md",
+    "아이폰에서.md"
+>>>>>>> Stashed changes
   ]
 }

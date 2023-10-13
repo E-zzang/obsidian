@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "a8017c50399bbbb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6006eea1e7793580",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe040cc616039b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Collection Framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d386d60cb9463b82",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "89502eab6f2de12d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1b91a53cb7475d86",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "406ea4fac6d63995",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "641f51eac2155426",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "db2f5e88241e3c58",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9af20d927d245b13",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Java Collection Framework.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2984e12a682f0698",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Java Collection Framework.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a2143726d08024cc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Java Collection Framework.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "89502eab6f2de12d",
+  "lastOpenFiles": [
+    "그리디 풀이.md",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "끄적.md",
+    "Java Collection Framework.md",
+    "Functional Interface.md",
+    "Stream.md",
+    "항해+.md",
+    "Excalidraw_png/Pasted image 20230928165225.png",
+    "Excalidraw_png/Pasted image 20230928165218.png",
+    "HTMLAudioElement.md",
+    "Font/NanumDaHaengCe.ttf",
+    "Archive/블로그/Java Exception.md",
+    "Excalidraw/Drawing 2023-09-26 16.25.37.excalidraw.md",
+    "Excalidraw_png/Pasted Image 20230926162824_108.png",
+    "Archive/블로그/HTML, CSS.md",
+    "Archive/블로그/Enum.md",
+    "README.md",
+    "Table Test.md",
+    "Archive/PARA.md",
+    "Excalidraw_png/Pasted Image 20230926180236_538.png",
+    "템플릿 적용, 수정.md",
+    "2023-09-27.md"
+  ]
+}
