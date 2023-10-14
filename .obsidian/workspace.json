@@ -8,31 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6476498d001b8466",
+            "id": "b42bc9c5a5f216b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "항해+.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "977f122cb073b5f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA Object.md",
+                "file": "JAVA Thread.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "4b6deb83f9867ded",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b8644279e9b81d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Object , String 정리.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA Object.md",
+                "file": "JAVA Thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA Object.md",
+                "file": "JAVA Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA Object.md"
+                "file": "JAVA Thread.md"
               }
             }
           }
@@ -161,10 +166,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "977f122cb073b5f0",
+  "active": "b42bc9c5a5f216b0",
   "lastOpenFiles": [
+    "Java Object , String 정리.md",
+    "JAVA Thread.md",
     "항해+.md",
-    "JAVA Object.md",
     "Excalidraw/Drawing 2023-09-26 16.25.37.excalidraw.md",
     "Java Collection Framework.md",
     "Stream.md",
