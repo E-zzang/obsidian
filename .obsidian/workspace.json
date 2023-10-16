@@ -6,6 +6,7 @@
       {
         "id": "62096e9c3bbff692",
         "type": "tabs",
+        "dimension": 51.38248847926267,
         "children": [
           {
             "id": "b42bc9c5a5f216b0",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA Thread.md",
+                "file": "Archive/블로그/Java Object , String 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,6 +25,7 @@
       {
         "id": "4b6deb83f9867ded",
         "type": "tabs",
+        "dimension": 48.61751152073733,
         "children": [
           {
             "id": "2b8644279e9b81d0",
@@ -31,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Object , String 정리.md",
+                "file": "Archive/블로그/Java Object , String 정리.md",
                 "mode": "preview",
                 "source": false
               }
@@ -87,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.5
   },
   "right": {
     "id": "28d4e26b425dd13c",
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA Thread.md",
+                "file": "Archive/블로그/Java Object , String 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA Thread.md",
+                "file": "Archive/블로그/Java Object , String 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,11 +145,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA Thread.md"
+                "file": "Archive/블로그/Java Object , String 정리.md"
               }
             }
+          },
+          {
+            "id": "0e7a47ff1e396a76",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,11 +179,11 @@
   },
   "active": "b42bc9c5a5f216b0",
   "lastOpenFiles": [
-    "Java Object , String 정리.md",
     "JAVA Thread.md",
+    "Archive/블로그/Java Object , String 정리.md",
+    "Java Collection Framework.md",
     "항해+.md",
     "Excalidraw/Drawing 2023-09-26 16.25.37.excalidraw.md",
-    "Java Collection Framework.md",
     "Stream.md",
     "Functional Interface.md",
     "Table Test.md",
