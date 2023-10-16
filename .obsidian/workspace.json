@@ -1,59 +1,88 @@
 {
   "main": {
-    "id": "836fa5ad752cd8fd",
+    "id": "94ef043886abdf56",
     "type": "split",
     "children": [
       {
-        "id": "62096e9c3bbff692",
+        "id": "f07ab58a562c5434",
         "type": "tabs",
-        "dimension": 51.38248847926267,
         "children": [
           {
-            "id": "b42bc9c5a5f216b0",
+            "id": "b7984e203156a52c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/블로그/Java Object , String 정리.md",
+                "file": "Archive/블로그/Java Exception.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09880dd5724c001d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/블로그/Java Exception.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6e6494e821eaa4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/PARA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f554c68614c0b55f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "끄적.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34dedba6813450b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Table Test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "4b6deb83f9867ded",
-        "type": "tabs",
-        "dimension": 48.61751152073733,
-        "children": [
-          {
-            "id": "2b8644279e9b81d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/블로그/Java Object , String 정리.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "14cad34bd46b7c6d",
+    "id": "02c466a2b6b4b6e3",
     "type": "split",
     "children": [
       {
-        "id": "da8036db5a73ee97",
+        "id": "5cab489f2440d8e8",
         "type": "tabs",
         "children": [
           {
-            "id": "9c8f2a735d258619",
+            "id": "48657064ce7672ab",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,13 +92,13 @@
             }
           },
           {
-            "id": "d155edf0d3fc22c9",
+            "id": "1cc97ad25e439c56",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,7 +107,7 @@
             }
           },
           {
-            "id": "0b75eb8bcfeb0011",
+            "id": "b2eb56c4509ef241",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,23 +118,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 334.5
   },
   "right": {
-    "id": "28d4e26b425dd13c",
+    "id": "b56c80bec966537c",
     "type": "split",
     "children": [
       {
-        "id": "9b2822c71057d458",
+        "id": "6f837cbdee41beef",
         "type": "tabs",
         "children": [
           {
-            "id": "f8b7790051da0a17",
+            "id": "e150a77532aea960",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/블로그/Java Object , String 정리.md",
+                "file": "Table Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,19 +146,19 @@
             }
           },
           {
-            "id": "93284245dabafebb",
+            "id": "1e237a654beffc55",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/블로그/Java Object , String 정리.md",
+                "file": "Table Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "dc8aefb8a5ad4bad",
+            "id": "7f41f913cf091954",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,17 +169,17 @@
             }
           },
           {
-            "id": "320a69a70f96f52a",
+            "id": "fcc3296b9ffe4977",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/블로그/Java Object , String 정리.md"
+                "file": "Table Test.md"
               }
             }
           },
           {
-            "id": "0e7a47ff1e396a76",
+            "id": "ff42cb427af558b3",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -162,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,25 +205,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b42bc9c5a5f216b0",
+  "active": "34dedba6813450b8",
   "lastOpenFiles": [
-    "JAVA Thread.md",
-    "Archive/블로그/Java Object , String 정리.md",
-    "Java Collection Framework.md",
-    "항해+.md",
-    "Excalidraw/Drawing 2023-09-26 16.25.37.excalidraw.md",
     "Stream.md",
-    "Functional Interface.md",
-    "Table Test.md",
-    "끄적.md",
-    "그리디 풀이.md",
-    "무제 파일.canvas",
-    "무제 파일 1.canvas",
+    "JAVA Thread.md",
+    "Java Collection Framework.md",
     "HTMLAudioElement.md",
+    "Archive/블로그/Java Exception.md",
+    "Archive/블로그/Java Object , String 정리.md",
+    "Java Object , String 정리.md",
+    "Archive/블로그/Enum.md",
+    "항해+.md",
+    "obsidian",
     "Excalidraw_png/Pasted image 20230928165225.png",
     "Excalidraw_png/Pasted image 20230928165218.png",
-    "2023-09-28.md",
-    "맥북하고 동기화.md",
-    "아이폰에서.md"
+    "Archive/블로그/HTML, CSS.md",
+    "Table Test.md",
+    "그리디 풀이.md",
+    "Functional Interface.md",
+    "Excalidraw/Drawing 2023-09-26 16.25.37.excalidraw.md",
+    "Excalidraw_png/Pasted Image 20230926162824_108.png",
+    "Excalidraw_png/Pasted Image 20230926180236_538.png",
+    "끄적.md",
+    "무제 파일.canvas",
+    "템플릿 적용, 수정.md",
+    "Archive/PARA.md",
+    "2023-09-27.md",
+    "README.md",
+    "무제 파일 1.canvas",
+    "Archive/블로그",
+    "Area",
+    "Archive",
+    "Resource",
+    "Project",
+    "Font/NanumDaHaengCe.ttf",
+    "Font",
+    "Excalidraw_png",
+    "Excalidraw"
   ]
 }
