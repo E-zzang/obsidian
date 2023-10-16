@@ -66,9 +66,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "526708b49165ce5e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
+            "id": "6a859c1237c0f21c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table Test.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Table Test.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Table Test.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -205,8 +227,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34dedba6813450b8",
+  "active": "6a859c1237c0f21c",
   "lastOpenFiles": [
+    "무제 파일.md",
     "Stream.md",
     "JAVA Thread.md",
     "Java Collection Framework.md",
