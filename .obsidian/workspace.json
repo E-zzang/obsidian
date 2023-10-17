@@ -14,13 +14,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stream.md",
+                "file": "Table Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc7825b7595b9afc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dbb5283df53675e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/블로그/Wrapper Class , AutoBoxing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4b6deb83f9867ded",
@@ -33,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wrapper Class , AutoBoxing.md",
+                "file": "Archive/블로그/Wrapper Class , AutoBoxing.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stream.md",
+                "file": "Archive/블로그/Wrapper Class , AutoBoxing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stream.md",
+                "file": "Archive/블로그/Wrapper Class , AutoBoxing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stream.md"
+                "file": "Archive/블로그/Wrapper Class , AutoBoxing.md"
               }
             }
           },
@@ -177,18 +202,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b42bc9c5a5f216b0",
+  "active": "5dbb5283df53675e",
   "lastOpenFiles": [
-    "Wrapper Class , AutoBoxing.md",
+    "Archive/블로그/Java Object , String 정리.md",
+    "Archive/블로그/Wrapper Class , AutoBoxing.md",
+    "conflict-files-obsidian-git.md",
+    "무제 파일.md",
+    "Table Test.md",
+    "Stream.md",
     "Functional Interface.md",
     "HTMLAudioElement.md",
     "Java Collection Framework.md",
     "JAVA Thread.md",
-    "Archive/블로그/Java Object , String 정리.md",
     "항해+.md",
     "Excalidraw/Drawing 2023-09-26 16.25.37.excalidraw.md",
-    "Stream.md",
-    "Table Test.md",
     "끄적.md",
     "그리디 풀이.md",
     "무제 파일.canvas",
