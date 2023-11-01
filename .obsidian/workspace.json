@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "B사이드.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "B사이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "B사이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "B사이드.md"
               }
             }
           },
@@ -229,27 +229,27 @@
   },
   "active": "6a859c1237c0f21c",
   "lastOpenFiles": [
-    "무제 파일.md",
-    "Stream.md",
     "JAVA Thread.md",
+    "B사이드.md",
+    "Archive/블로그/Java Exception.md",
+    "끄적.md",
+    "항해+.md",
+    "그리디 풀이.md",
+    "Stream.md",
     "Java Collection Framework.md",
     "HTMLAudioElement.md",
-    "Archive/블로그/Java Exception.md",
     "Archive/블로그/Java Object , String 정리.md",
     "Java Object , String 정리.md",
     "Archive/블로그/Enum.md",
-    "항해+.md",
     "obsidian",
     "Excalidraw_png/Pasted image 20230928165225.png",
     "Excalidraw_png/Pasted image 20230928165218.png",
     "Archive/블로그/HTML, CSS.md",
     "Table Test.md",
-    "그리디 풀이.md",
     "Functional Interface.md",
     "Excalidraw/Drawing 2023-09-26 16.25.37.excalidraw.md",
     "Excalidraw_png/Pasted Image 20230926162824_108.png",
     "Excalidraw_png/Pasted Image 20230926180236_538.png",
-    "끄적.md",
     "무제 파일.canvas",
     "템플릿 적용, 수정.md",
     "Archive/PARA.md",
