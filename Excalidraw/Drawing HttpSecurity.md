@@ -12,6 +12,10 @@ HttpSecurity ^AUXA5TL7
 
 Gamification ^7MFwk504
 
+Access Token ^QnJoMz2V
+
+Refresh Token ^nWqo23Gt
+
 
 # Embedded files
 1606aa6667b879a0433c14851d855b3ca76661ca: [[Pasted Image 20231113201239_671.png]]
@@ -101,8 +105,8 @@ Gamification ^7MFwk504
 		},
 		{
 			"type": "arrow",
-			"version": 390,
-			"versionNonce": 452285575,
+			"version": 392,
+			"versionNonce": 1694267015,
 			"isDeleted": false,
 			"id": "szZpLGqitAUo0gqWrryFh",
 			"fillStyle": "hachure",
@@ -124,7 +128,7 @@ Gamification ^7MFwk504
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699877921164,
+			"updated": 1699882626759,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -257,23 +261,23 @@ Gamification ^7MFwk504
 		},
 		{
 			"type": "rectangle",
-			"version": 267,
-			"versionNonce": 853549321,
-			"isDeleted": true,
-			"id": "qUCNSAgbFDItgUQwLVSbV",
+			"version": 1168,
+			"versionNonce": 1728552135,
+			"isDeleted": false,
+			"id": "Ddzz_VL16u1rLc_fSQ3OO",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -652.25,
-			"y": -29.7421875,
+			"x": -651.5775899621299,
+			"y": 336.3208430559522,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 216,
 			"height": 125,
-			"seed": 1105346038,
+			"seed": 5752841,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
@@ -281,87 +285,121 @@ Gamification ^7MFwk504
 			},
 			"boundElements": [
 				{
-					"id": "szZpLGqitAUo0gqWrryFh",
-					"type": "arrow"
-				},
-				{
 					"type": "text",
-					"id": "gwHiYiKU"
+					"id": "QnJoMz2V"
 				}
 			],
-			"updated": 1699877906193,
+			"updated": 1699882620064,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 200,
-			"versionNonce": 58003463,
-			"isDeleted": true,
-			"id": "gwHiYiKU",
+			"version": 1122,
+			"versionNonce": 820753545,
+			"isDeleted": false,
+			"id": "QnJoMz2V",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -604.1199493408203,
-			"y": 20.2578125,
+			"x": -610.0975331994346,
+			"y": 386.3208430559522,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 119.73989868164062,
+			"width": 133.03988647460938,
 			"height": 25,
-			"seed": 437456694,
+			"seed": 336846569,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1699877906193,
+			"updated": 1699882638375,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Gamification",
-			"rawText": "Gamification",
+			"text": "Access Token",
+			"rawText": "Access Token",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"containerId": "qUCNSAgbFDItgUQwLVSbV",
-			"originalText": "Gamification",
+			"containerId": "Ddzz_VL16u1rLc_fSQ3OO",
+			"originalText": "Access Token",
 			"lineHeight": 1.25,
 			"baseline": 18
 		},
 		{
-			"type": "image",
-			"version": 2,
-			"versionNonce": 1506865577,
-			"isDeleted": true,
-			"id": "rAP2EzEP",
+			"type": "rectangle",
+			"version": 1259,
+			"versionNonce": 1985664617,
+			"isDeleted": false,
+			"id": "rhGDOpKoz7zLPiEEK9Kz-",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -245.1616802540002,
-			"y": 29.67109753210468,
-			"strokeColor": "#000000",
+			"x": -226.66792803642784,
+			"y": 331.54657719161855,
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 144,
-			"height": 500,
-			"seed": 52053,
+			"width": 216,
+			"height": 125,
+			"seed": 977985289,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "nWqo23Gt"
+				}
+			],
+			"updated": 1699882640948,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 1243,
+			"versionNonce": 1197875529,
+			"isDeleted": false,
+			"id": "nWqo23Gt",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -189.5078633391622,
+			"y": 381.54657719161855,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 141.67987060546875,
+			"height": 25,
+			"seed": 1837897193,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1699877907712,
+			"updated": 1699882640948,
 			"link": null,
 			"locked": false,
-			"status": "pending",
-			"fileId": "7a50576f434db0f7643a4fdeec6e2bba50df14b5",
-			"scale": [
-				1,
-				1
-			]
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Refresh Token",
+			"rawText": "Refresh Token",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "rhGDOpKoz7zLPiEEK9Kz-",
+			"originalText": "Refresh Token",
+			"lineHeight": 1.25,
+			"baseline": 18
 		}
 	],
 	"appState": {
@@ -379,10 +417,10 @@ Gamification ^7MFwk504
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 981.3163065981355,
-		"scrollY": 565.6706090704182,
+		"scrollX": 1010.8588614337935,
+		"scrollY": 363.2899950143518,
 		"zoom": {
-			"value": 0.8878251470832613
+			"value": 0.8378251470832613
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
