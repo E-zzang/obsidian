@@ -16,8 +16,21 @@
                 "file": "Excalidraw/Drawing ERD.md"
               }
             }
+          },
+          {
+            "id": "4d79a7ae39d2d71e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "아이디어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing ERD.md",
+                "file": "아이디어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing ERD.md",
+                "file": "아이디어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing ERD.md"
+                "file": "아이디어.md"
               }
             }
           },
@@ -155,11 +168,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "de40fa2f49299b6e",
+  "active": "4d79a7ae39d2d71e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing ERD.md",
+    "아이디어.md",
     "Excalidraw/Drawing HttpSecurity.md",
     "Font/나눔손글씨 성실체.ttf",
-    "Excalidraw/Drawing ERD.md",
     "Excalidraw_png/Pasted Image 20231113201239_671.png",
     "Excalidraw/Drawing 2023-11-01 17.18.54.excalidraw.md",
     "Excalidraw/Drawing 2023-09-26 16.25.37.excalidraw.md",
