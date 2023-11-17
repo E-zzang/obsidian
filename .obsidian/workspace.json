@@ -21,11 +21,9 @@
             "id": "4d79a7ae39d2d71e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "아이디어.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing HttpSecurity.md"
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이디어.md",
+                "file": "Excalidraw/Drawing HttpSecurity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어.md",
+                "file": "Excalidraw/Drawing HttpSecurity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어.md"
+                "file": "Excalidraw/Drawing HttpSecurity.md"
               }
             }
           },
@@ -170,8 +168,9 @@
   },
   "active": "4d79a7ae39d2d71e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing ERD.md",
+    "Excalidraw_png/Pasted image 20230928165225.png",
     "아이디어.md",
+    "Excalidraw/Drawing ERD.md",
     "Excalidraw/Drawing HttpSecurity.md",
     "Font/나눔손글씨 성실체.ttf",
     "Excalidraw_png/Pasted Image 20231113201239_671.png",
@@ -184,7 +183,6 @@
     "Excalidraw_png/Pasted image 20230928165218.png",
     "Excalidraw_png/Pasted Image 20230926180236_538.png",
     "Excalidraw_png/Pasted Image 20230926162824_108.png",
-    "Excalidraw_png/Pasted image 20230928165225.png",
     "JAVA Thread.md",
     "HTMLAudioElement.md",
     "Functional Interface.md",
@@ -202,7 +200,6 @@
     "Archive/블로그/Enum.md",
     "obsidian",
     "Archive/블로그/HTML, CSS.md",
-    "Table Test.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "Archive/블로그",
