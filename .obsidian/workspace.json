@@ -26,9 +26,21 @@
                 "file": "Excalidraw/Drawing HttpSecurity.md"
               }
             }
+          },
+          {
+            "id": "8acc02dd928948ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "카카오 설명회.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing HttpSecurity.md",
+                "file": "카카오 설명회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing HttpSecurity.md",
+                "file": "카카오 설명회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing HttpSecurity.md"
+                "file": "카카오 설명회.md"
               }
             }
           },
@@ -166,12 +178,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d79a7ae39d2d71e",
+  "active": "8acc02dd928948ce",
   "lastOpenFiles": [
+    "Excalidraw_png/Pasted image 20231117162411.png",
+    "Excalidraw/Drawing HttpSecurity.md",
+    "카카오 설명회.md",
     "Excalidraw_png/Pasted image 20230928165225.png",
     "아이디어.md",
     "Excalidraw/Drawing ERD.md",
-    "Excalidraw/Drawing HttpSecurity.md",
     "Font/나눔손글씨 성실체.ttf",
     "Excalidraw_png/Pasted Image 20231113201239_671.png",
     "Excalidraw/Drawing 2023-11-01 17.18.54.excalidraw.md",
@@ -199,7 +213,6 @@
     "Java Object , String 정리.md",
     "Archive/블로그/Enum.md",
     "obsidian",
-    "Archive/블로그/HTML, CSS.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "Archive/블로그",
