@@ -31,11 +31,9 @@
             "id": "8acc02dd928948ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "카카오 설명회.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing ERD.md"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "카카오 설명회.md",
+                "file": "Excalidraw/Drawing ERD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "카카오 설명회.md",
+                "file": "Excalidraw/Drawing ERD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "카카오 설명회.md"
+                "file": "Excalidraw/Drawing ERD.md"
               }
             }
           },
@@ -180,6 +178,8 @@
   },
   "active": "8acc02dd928948ce",
   "lastOpenFiles": [
+    "카카오 설명회.md",
+    "B사이드.md",
     "Excalidraw_png/Pasted image 20231117164654.png",
     "Excalidraw_png/Pasted image 20231117164610.png",
     "Excalidraw_png/Pasted image 20231117164449.png",
@@ -189,7 +189,6 @@
     "Excalidraw_png/Pasted image 20231117164055.png",
     "Excalidraw_png/Pasted image 20231117162411.png",
     "Excalidraw/Drawing HttpSecurity.md",
-    "카카오 설명회.md",
     "Excalidraw_png/Pasted image 20230928165225.png",
     "아이디어.md",
     "Excalidraw/Drawing ERD.md",
@@ -201,13 +200,11 @@
     "Excalidraw/Drawing 2023-11-05 04.08.15.excalidraw.md",
     "Excalidraw/무제 파일.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw_png/Pasted image 20230928165218.png",
     "JAVA Thread.md",
     "HTMLAudioElement.md",
     "Functional Interface.md",
     "무제 파일.md",
     "Archive/블로그/Wrapper Class , AutoBoxing.md",
-    "B사이드.md",
     "Archive/블로그/Java Exception.md",
     "끄적.md",
     "항해+.md",
