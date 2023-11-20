@@ -33,7 +33,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing ERD.md"
+                "file": "Excalidraw/Drawing HttpSecurity.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing ERD.md",
+                "file": "Excalidraw/Drawing HttpSecurity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing ERD.md",
+                "file": "Excalidraw/Drawing HttpSecurity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing ERD.md"
+                "file": "Excalidraw/Drawing HttpSecurity.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "8acc02dd928948ce",
   "lastOpenFiles": [
+    "Excalidraw/Drawing ERD.md",
+    "Excalidraw/Drawing 2023-11-01 17.18.54.excalidraw.md",
     "카카오 설명회.md",
     "B사이드.md",
     "Excalidraw_png/Pasted image 20231117164654.png",
@@ -191,10 +193,8 @@
     "Excalidraw/Drawing HttpSecurity.md",
     "Excalidraw_png/Pasted image 20230928165225.png",
     "아이디어.md",
-    "Excalidraw/Drawing ERD.md",
     "Font/나눔손글씨 성실체.ttf",
     "Excalidraw_png/Pasted Image 20231113201239_671.png",
-    "Excalidraw/Drawing 2023-11-01 17.18.54.excalidraw.md",
     "Excalidraw/Drawing 2023-09-26 16.25.37.excalidraw.md",
     "Excalidraw/Drawing 2023-11-04 23.32.27.excalidraw.md",
     "Excalidraw/Drawing 2023-11-05 04.08.15.excalidraw.md",
