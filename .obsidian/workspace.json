@@ -41,9 +41,11 @@
             "id": "6bc911d7d1ed5594",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing SpringBoot Test.md"
+                "file": "항해+.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing SpringBoot Test.md",
+                "file": "항해+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing SpringBoot Test.md",
+                "file": "항해+.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing SpringBoot Test.md"
+                "file": "항해+.md"
               }
             }
           },
@@ -188,12 +190,15 @@
   },
   "active": "6bc911d7d1ed5594",
   "lastOpenFiles": [
-    "Excalidraw/Drawing ERD.md",
+    "아이디어.md",
+    "끄적.md",
+    "무제 파일.md",
+    "카카오 설명회.md",
     "Excalidraw/Drawing SpringBoot Test.md",
+    "Excalidraw/Drawing ERD.md",
     "Excalidraw/Drawing 2023-11-20 22.44.41.excalidraw.md",
     "Excalidraw/Drawing 2023-11-01 17.18.54.excalidraw.md",
     "Excalidraw/Drawing HttpSecurity.md",
-    "카카오 설명회.md",
     "B사이드.md",
     "Excalidraw_png/Pasted image 20231117164654.png",
     "Excalidraw_png/Pasted image 20231117164610.png",
@@ -204,7 +209,6 @@
     "Excalidraw_png/Pasted image 20231117164055.png",
     "Excalidraw_png/Pasted image 20231117162411.png",
     "Excalidraw_png/Pasted image 20230928165225.png",
-    "아이디어.md",
     "Font/나눔손글씨 성실체.ttf",
     "Excalidraw_png/Pasted Image 20231113201239_671.png",
     "Excalidraw/Drawing 2023-09-26 16.25.37.excalidraw.md",
@@ -215,10 +219,8 @@
     "JAVA Thread.md",
     "HTMLAudioElement.md",
     "Functional Interface.md",
-    "무제 파일.md",
     "Archive/블로그/Wrapper Class , AutoBoxing.md",
     "Archive/블로그/Java Exception.md",
-    "끄적.md",
     "항해+.md",
     "그리디 풀이.md",
     "Stream.md",
