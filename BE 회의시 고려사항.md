@@ -3,14 +3,14 @@
 
 ## 탈퇴 회원
 
-## device (marketing / informative) notification flag
-
 ## jwtFilter
 
 
 
 - 탈퇴 한 회원에 대한 고려사항
 - 
+
+
 
 
 
