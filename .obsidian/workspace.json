@@ -53,8 +53,10 @@
             "id": "e4fddf0771fde59a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing ERD.md"
+              }
             }
           }
         ],
@@ -124,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing ERD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing ERD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing URL ROUTE.md"
+                "file": "Excalidraw/Drawing ERD.md"
               }
             }
           },
@@ -194,11 +198,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48657064ce7672ab",
+  "active": "e4fddf0771fde59a",
   "lastOpenFiles": [
+    "Excalidraw_png/Pasted Image 20230926162824_108.png",
+    "Excalidraw/Drawing ERD.md",
     "Excalidraw/Drawing 2023-11-01 17.18.54.excalidraw.md",
     "Excalidraw/Drawing URL ROUTE.md",
-    "Excalidraw/Drawing ERD.md",
     "Excalidraw/Drawing SpringBoot Test.md",
     "Excalidraw/무제 파일.md",
     "Excalidraw/Drawing HttpSecurity.md",
@@ -232,7 +237,6 @@
     "conflict-files-obsidian-git.md",
     "HTMLAudioElement.md",
     "Archive/블로그/Wrapper Class , AutoBoxing.md",
-    "Archive/블로그/Java Exception.md",
     "obsidian",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
