@@ -73,9 +73,11 @@
             "id": "dc7b6a1ab68230a0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Archive/블로그/HTML, CSS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -146,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-02 02.05.25.excalidraw.md",
+                "file": "Archive/블로그/HTML, CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-02 02.05.25.excalidraw.md",
+                "file": "Archive/블로그/HTML, CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-02 02.05.25.excalidraw.md"
+                "file": "Archive/블로그/HTML, CSS.md"
               }
             }
           },
@@ -220,6 +222,11 @@
   },
   "active": "dc7b6a1ab68230a0",
   "lastOpenFiles": [
+    "JAVA Thread.md",
+    "Java Collection Framework.md",
+    "Functional Interface.md",
+    "HTMLAudioElement.md",
+    "2023-11-29 비사이드.md",
     "Excalidraw/Drawing HttpSecurity.md",
     "Excalidraw/Drawing 2024-01-02 02.05.25.excalidraw.md",
     "Excalidraw/Drawing SpringBoot Test.md",
@@ -229,15 +236,11 @@
     "Excalidraw/Drawing URL ROUTE.md",
     "Excalidraw/무제 파일.md",
     "항해+.md",
-    "2023-11-29 비사이드.md",
     "아이디어.md",
     "그리디 풀이.md",
     "BE 회의시 고려사항.md",
     "끄적.md",
-    "Functional Interface.md",
     "Stream.md",
-    "JAVA Thread.md",
-    "Java Collection Framework.md",
     "카카오 설명회.md",
     "Excalidraw/Drawing 2023-11-20 22.44.41.excalidraw.md",
     "B사이드.md",
@@ -255,7 +258,6 @@
     "Excalidraw/Drawing 2023-11-04 23.32.27.excalidraw.md",
     "Excalidraw/Drawing 2023-11-05 04.08.15.excalidraw.md",
     "conflict-files-obsidian-git.md",
-    "HTMLAudioElement.md",
     "Archive/블로그/Wrapper Class , AutoBoxing.md",
     "obsidian",
     "무제 파일.canvas",
