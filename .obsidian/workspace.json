@@ -75,14 +75,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/블로그/HTML, CSS.md",
+                "file": "아이디어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "766680fe74ea371f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/블로그/HTML, CSS.md",
+                "file": "react.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/블로그/HTML, CSS.md",
+                "file": "react.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/블로그/HTML, CSS.md"
+                "file": "react.md"
               }
             }
           },
@@ -220,13 +232,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc7b6a1ab68230a0",
+  "active": "766680fe74ea371f",
   "lastOpenFiles": [
+    "아이디어.md",
+    "react.md",
+    "그리디 풀이.md",
+    "2023-11-29 비사이드.md",
+    "Archive/블로그/HTML, CSS.md",
     "JAVA Thread.md",
     "Java Collection Framework.md",
     "Functional Interface.md",
     "HTMLAudioElement.md",
-    "2023-11-29 비사이드.md",
     "Excalidraw/Drawing HttpSecurity.md",
     "Excalidraw/Drawing 2024-01-02 02.05.25.excalidraw.md",
     "Excalidraw/Drawing SpringBoot Test.md",
@@ -236,8 +252,6 @@
     "Excalidraw/Drawing URL ROUTE.md",
     "Excalidraw/무제 파일.md",
     "항해+.md",
-    "아이디어.md",
-    "그리디 풀이.md",
     "BE 회의시 고려사항.md",
     "끄적.md",
     "Stream.md",
@@ -257,8 +271,6 @@
     "Excalidraw/Drawing 2023-09-26 16.25.37.excalidraw.md",
     "Excalidraw/Drawing 2023-11-04 23.32.27.excalidraw.md",
     "Excalidraw/Drawing 2023-11-05 04.08.15.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "Archive/블로그/Wrapper Class , AutoBoxing.md",
     "obsidian",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
