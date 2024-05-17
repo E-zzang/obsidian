@@ -112,9 +112,19 @@
                 "file": "Excalidraw/Drawing 2024-02-29 13.24.11.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "57651952f416de7a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -252,7 +262,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7199ddb7535e947d",
+  "active": "57651952f416de7a",
   "lastOpenFiles": [
     "Excalidraw/Drawing ERD.md",
     "Excalidraw/Drawing 2024-02-29 13.24.11.excalidraw.md",
