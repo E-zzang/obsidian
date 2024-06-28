@@ -122,9 +122,21 @@
                 "currentVersion": "1.5.8"
               }
             }
+          },
+          {
+            "id": "f7f77f972ed2fcdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-29 13.24.11.excalidraw.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-29 13.24.11.excalidraw.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-29 13.24.11.excalidraw.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -262,8 +274,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57651952f416de7a",
+  "active": "f7f77f972ed2fcdc",
   "lastOpenFiles": [
+    "무제 파일.md",
     "Excalidraw/Drawing ERD.md",
     "Excalidraw/Drawing 2024-02-29 13.24.11.excalidraw.md",
     "Excalidraw/Drawing SpringBoot Test.md",
@@ -290,7 +303,6 @@
     "Stream.md",
     "카카오 설명회.md",
     "Excalidraw/Drawing 2023-11-20 22.44.41.excalidraw.md",
-    "B사이드.md",
     "Excalidraw_png/Pasted image 20231117164654.png",
     "Excalidraw_png/Pasted image 20231117164610.png",
     "Excalidraw_png/Pasted image 20231117164449.png",
