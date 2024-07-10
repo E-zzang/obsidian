@@ -1,3 +1,5 @@
+### JAVA 입출력
+
 ```java
 Scanner scanner = new Scanner(System.in);
 String input = scanner.nextLine();
@@ -23,3 +25,45 @@ try {
 }
 
 ```
+
+
+### Graph
+
+####
+
+### Arrays.sort
+#### Comparator
+```java
+// Comparator<? super T> c
+Arrays.sort(a, new Comparator<A>() {
+	@Override
+	public int compare(A a, A b) {
+		if (a.score == b.score) {
+			return Integer.compare(a.id, b.id);
+		}
+		return Integer.compare(a.score, b.score); // 내림차순
+	}
+});
+
+class A {
+	int id;
+	int score;
+}
+```
+
+#### Comparable
+```java
+class A implements Comparable<T> {
+	int id;
+	@Override
+	public int compareTo(A a) {
+		return Integer.compare(id, a.id);
+	}
+}
+
+public static int compare(int x, int y) {
+	return (x < y) ? -1 : ((x==y) ? 0 : 1);
+}
+```
+
+

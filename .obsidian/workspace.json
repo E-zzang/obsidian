@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA 입출력.md",
+                "file": "JAVA 코딩.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,9 +23,11 @@
             "id": "a602bb35c68cf366",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "JAVA 코딩.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA 입출력.md",
+                "file": "JAVA 코딩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA 입출력.md",
+                "file": "JAVA 코딩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA 입출력.md"
+                "file": "JAVA 코딩.md"
               }
             }
           },
@@ -170,20 +172,20 @@
   },
   "active": "a602bb35c68cf366",
   "lastOpenFiles": [
+    "아이디어.md",
+    "2023-11-29 비사이드.md",
     "그리디 풀이.md",
     "Excalidraw/Drawing ERD.md",
     "Excalidraw/Drawing HttpSecurity.md",
     "Excalidraw/Drawing SpringBoot Test.md",
     "Excalidraw/Drawing 2024-01-02 02.05.25.excalidraw.md",
-    "아이디어.md",
     "Java Collection Framework.md",
     "Excalidraw/Drawing 2024-02-29 13.24.11.excalidraw.md",
-    "JAVA 입출력.md",
+    "JAVA 코딩.md",
     "Spring MVC Error.md",
     "JAVA Thread.md",
     "Archive/블로그/Java Exception.md",
     "react.md",
-    "2023-11-29 비사이드.md",
     "Archive/블로그/HTML, CSS.md",
     "Functional Interface.md",
     "HTMLAudioElement.md",
