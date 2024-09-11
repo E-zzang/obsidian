@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1295f5ca6acc1ead",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +180,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a602bb35c68cf366",
+  "active": "1295f5ca6acc1ead",
   "lastOpenFiles": [
     "아이디어.md",
     "2023-11-29 비사이드.md",
