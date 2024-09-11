@@ -32,12 +32,14 @@
             }
           },
           {
-            "id": "1295f5ca6acc1ead",
+            "id": "d79567f4add7aec6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Java 백엔드 면접 질문.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA 코딩.md",
+                "file": "Java 백엔드 면접 질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA 코딩.md",
+                "file": "Java 백엔드 면접 질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA 코딩.md"
+                "file": "Java 백엔드 면접 질문.md"
               }
             }
           },
@@ -180,8 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1295f5ca6acc1ead",
+  "active": "d79567f4add7aec6",
   "lastOpenFiles": [
+    "JAVA 코딩.md",
+    "Java 백엔드 면접 질문.md",
     "아이디어.md",
     "2023-11-29 비사이드.md",
     "그리디 풀이.md",
@@ -191,7 +195,6 @@
     "Excalidraw/Drawing 2024-01-02 02.05.25.excalidraw.md",
     "Java Collection Framework.md",
     "Excalidraw/Drawing 2024-02-29 13.24.11.excalidraw.md",
-    "JAVA 코딩.md",
     "Spring MVC Error.md",
     "JAVA Thread.md",
     "Archive/블로그/Java Exception.md",
@@ -208,7 +211,6 @@
     "끄적.md",
     "Stream.md",
     "카카오 설명회.md",
-    "Excalidraw/Drawing 2023-11-20 22.44.41.excalidraw.md",
     "Excalidraw_png/Pasted image 20231117164654.png",
     "Excalidraw_png/Pasted image 20231117164610.png",
     "Excalidraw_png/Pasted image 20231117164449.png",
