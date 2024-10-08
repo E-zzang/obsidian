@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62ab3d691b6c6c9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 당근 테크 밋업 후기.md",
+                "file": "Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 당근 테크 밋업 후기.md",
+                "file": "Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 당근 테크 밋업 후기.md"
+                "file": "Redis.md"
               }
             }
           },
@@ -194,10 +206,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f441b203cb810441",
+  "active": "62ab3d691b6c6c9b",
   "lastOpenFiles": [
-    "Java 백엔드 면접 질문.md",
     "2024 당근 테크 밋업 후기.md",
+    "Redis.md",
+    "Java 백엔드 면접 질문.md",
     "JAVA 코딩.md",
     "아이디어.md",
     "2023-11-29 비사이드.md",
@@ -222,7 +235,6 @@
     "항해+.md",
     "BE 회의시 고려사항.md",
     "끄적.md",
-    "Stream.md",
     "Excalidraw_png/Pasted image 20231117164654.png",
     "Excalidraw_png/Pasted image 20231117164610.png",
     "Excalidraw_png/Pasted image 20231117164449.png",
