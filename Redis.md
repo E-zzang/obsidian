@@ -14,3 +14,4 @@ Master -> Slave 로 복제
 Cluster (Replication + Scale-out)
 메모리의 크기 한계와 서버 장애에 대한 대응
 데이터 확장
+
