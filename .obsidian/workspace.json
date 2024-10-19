@@ -88,9 +88,23 @@
               "icon": "lucide-file",
               "title": "Release Notes 1.7.4"
             }
+          },
+          {
+            "id": "726273b464aa888c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "블로그 방향성.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "블로그 방향성"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -162,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA 코딩.md",
+                "file": "블로그 방향성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +186,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "JAVA 코딩의 백링크"
+              "title": "블로그 방향성의 백링크"
             }
           },
           {
@@ -181,12 +195,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA 코딩.md",
+                "file": "블로그 방향성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "JAVA 코딩의 나가는 링크"
+              "title": "블로그 방향성의 나가는 링크"
             }
           },
           {
@@ -208,10 +222,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA 코딩.md"
+                "file": "블로그 방향성.md"
               },
               "icon": "lucide-list",
-              "title": "JAVA 코딩 개요"
+              "title": "블로그 방향성 개요"
             }
           },
           {
@@ -244,8 +258,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f58deceb068441f0",
+  "active": "726273b464aa888c",
   "lastOpenFiles": [
+    "Excalidraw_png/Pasted image 20241019124419.png",
+    "Excalidraw_png/Pasted image 20241019124402.png",
+    "블로그 방향성.md",
     "Java 백엔드 면접 질문.md",
     "OSI 7계층, 외부 통신 과정.md",
     "Table Test.md",
@@ -271,8 +288,6 @@
     "Archive/블로그/Java Exception.md",
     "Archive/블로그/HTML, CSS.md",
     "Excalidraw_png/Pasted Image 20230926162824_108.png",
-    "Excalidraw/Drawing 2023-11-01 17.18.54.excalidraw.md",
-    "Excalidraw/Drawing URL ROUTE.md",
     "Excalidraw_png/Pasted image 20231117164654.png",
     "Excalidraw_png/Pasted image 20231117164610.png",
     "Excalidraw_png/Pasted image 20231117164449.png",
@@ -281,7 +296,6 @@
     "Excalidraw_png/Pasted image 20231117164108.png",
     "Excalidraw_png/Pasted image 20231117164055.png",
     "Excalidraw_png/Pasted image 20231117162411.png",
-    "Excalidraw_png/Pasted image 20230928165225.png",
     "Font/나눔손글씨 성실체.ttf",
     "obsidian",
     "무제 파일.canvas",
