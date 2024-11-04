@@ -76,12 +76,15 @@
 - **Spring 프레임워크의 핵심 기능은 무엇인가요?**
     
     - Spring 프레임워크는 **DI(Dependency Injection)**, **AOP(Aspect-Oriented Programming)**, **트랜잭션 관리**, **MVC 패턴 기반 웹 개발** 등의 기능을 제공합니다. 이를 통해 개발자는 모듈 간의 결합도를 낮추고, 애플리케이션의 확장성과 유지보수성을 높일 수 있습니다.
+
 - **Spring Boot와 Spring의 차이점에 대해 설명해 보세요.**
     
     - **Spring**은 다양한 설정과 복잡한 XML 또는 Java 기반 구성을 요구하는 반면, **Spring Boot**는 설정을 최소화하고 '기본 설정으로 동작하는 애플리케이션'을 쉽게 만들 수 있게 도와줍니다. Spring Boot는 임베디드 서버(Tomcat 등)를 포함하고 있어 별도의 배포 없이 실행할 수 있으며, 자동 설정(auto-configuration)을 통해 많은 설정을 자동으로 처리합니다.
+
 - **Spring의 DI(Dependency Injection)와 IoC(Inversion of Control)에 대해 설명해 주세요.**
     
     - **DI(Dependency Injection)** 는 객체 간의 의존성을 직접 생성하는 대신, 외부에서 주입하는 방식으로 구현하는 개념입니다. 이를 통해 코드의 결합도를 낮출 수 있습니다. **IoC(Inversion of Control)** 는 제어의 역전으로, 객체의 생성과 관리를 개발자가 직접 하지 않고 컨테이너(SPRING)가 관리하도록 위임하는 패턴입니다.
+
 - **Spring에서 AOP(Aspect-Oriented Programming)가 어떻게 사용되나요?**
     
     - **AOP(Aspect-Oriented Programming)** 는 비즈니스 로직에 영향을 주지 않으면서 횡단 관심사(cross-cutting concerns)를 분리해 관리하는 방법입니다. 예를 들어, 로깅, 트랜잭션 관리, 예외 처리 등을 비즈니스 로직에서 분리해 모듈화할 수 있습니다. Spring에서는 @Aspect 어노테이션과 `@Before`, `@After`, `@Around` 등의 어노테이션을 통해 AOP를 구현합니다.
