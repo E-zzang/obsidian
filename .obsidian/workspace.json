@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "5849768f0ce56a18",
+            "id": "17e5ff5eaa630f34",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "2024-11-23.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "2024-11-23"
             }
           }
         ],
@@ -188,14 +190,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5849768f0ce56a18",
+  "active": "17e5ff5eaa630f34",
   "lastOpenFiles": [
+    "Java 백엔드 면접 질문.md",
+    "2024-11-23.md",
     "JAVA 코딩.md",
     "JAVA Thread.md",
     "Java Collection Framework.md",
     "OSI 7계층, 외부 통신 과정.md",
     "10.29 면접 준비.md",
-    "Java 백엔드 면접 질문.md",
     "블로그 방향성.md",
     "2024 당근 테크 밋업 후기.md",
     "Excalidraw_png/Pasted image 20241019124419.png",
@@ -217,7 +220,6 @@
     "Excalidraw/Drawing 2024-01-02 02.05.25.excalidraw.md",
     "Excalidraw/Drawing 2024-02-29 13.24.11.excalidraw.md",
     "Archive/블로그/Java Exception.md",
-    "Archive/블로그/HTML, CSS.md",
     "Excalidraw_png/Pasted Image 20230926162824_108.png",
     "Excalidraw_png/Pasted image 20231117164654.png",
     "Excalidraw_png/Pasted image 20231117164610.png",
