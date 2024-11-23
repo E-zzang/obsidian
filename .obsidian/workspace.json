@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Java 백엔드 면접 질문"
             }
+          },
+          {
+            "id": "5849768f0ce56a18",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,20 +188,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76d2c474b05a70d1",
+  "active": "5849768f0ce56a18",
   "lastOpenFiles": [
-    "10.29 면접 준비.md",
-    "블로그 방향성.md",
-    "Java 백엔드 면접 질문.md",
     "JAVA 코딩.md",
+    "JAVA Thread.md",
+    "Java Collection Framework.md",
     "OSI 7계층, 외부 통신 과정.md",
+    "10.29 면접 준비.md",
+    "Java 백엔드 면접 질문.md",
+    "블로그 방향성.md",
     "2024 당근 테크 밋업 후기.md",
     "Excalidraw_png/Pasted image 20241019124419.png",
     "Excalidraw_png/Pasted image 20241019124402.png",
     "Table Test.md",
     "Stream.md",
-    "JAVA Thread.md",
-    "Java Collection Framework.md",
     "HTMLAudioElement.md",
     "항해+.md",
     "Functional Interface.md",
