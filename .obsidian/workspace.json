@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "2024-11-23"
             }
+          },
+          {
+            "id": "d9970b5eade9cf55",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "17e5ff5eaa630f34",
+  "active": "d9970b5eade9cf55",
   "lastOpenFiles": [
     "Java 백엔드 면접 질문.md",
     "2024-11-23.md",
